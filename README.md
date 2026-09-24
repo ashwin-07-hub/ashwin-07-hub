@@ -13,7 +13,7 @@
 <!-- ===================== PROFILE VIEWS ===================== -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashwin-07-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=gradient&section=header&reversal=false&text=Hii+ASHWIN&textBg=false&fontColor=FFFF&fontSize=70&fontAlign=50&fontAlignY=50&animation=scaleIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
 </p>
 
 <!-- ===================== INTRO ===================== -->
