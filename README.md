@@ -13,7 +13,7 @@
 <!-- ===================== PROFILE VIEWS ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=gradient&section=header&reversal=false&text=Hii+ASHWIN&textBg=false&fontColor=FFFF&fontSize=70&fontAlign=50&fontAlignY=50&animation=scaleIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=gradient&section=header&reversal=true&text=ASHWIN...%E2%9D%84%EF%B8%8F&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
 </p>
 
 <!-- ===================== INTRO ===================== -->
